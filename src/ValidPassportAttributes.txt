@@ -5,4 +5,3 @@ hgt
 hcl
 ecl
 pid
-cid

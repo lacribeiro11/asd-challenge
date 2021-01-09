@@ -24,7 +24,7 @@ public class Day4 {
                     validAttributes++;
                 }
             }
-            if (validAttributes == 8 && pass.size() == 8){
+            if (validAttributes == 7 ){
                 validPassworts++;
             }
 
